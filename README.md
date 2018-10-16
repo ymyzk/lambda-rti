@@ -1,6 +1,7 @@
 # lambda-rti
 
 [![Build Status](https://travis-ci.org/ymyzk/lambda-rti.svg?branch=master)](https://travis-ci.org/ymyzk/lambda-rti)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.1186955.svg)](https://doi.org/10.5281/zenodo.1186955)
 
 **lambda-rti** is an interpreter of the implicitly typed gradual language (ITGL).
 This implementation consists of:
