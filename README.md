@@ -1,5 +1,8 @@
 # lambda-rti
 
+## THIS PROJECT IS ARCHIVED
+A newer interpreter of the ITGL is available at [ymyzk/lambda-dti](https://github.com/ymyzk/lambda-dti).
+
 [![Build Status](https://travis-ci.org/ymyzk/lambda-rti.svg?branch=master)](https://travis-ci.org/ymyzk/lambda-rti)
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.1186955.svg)](https://doi.org/10.5281/zenodo.1186955)
 
